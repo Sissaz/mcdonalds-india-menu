@@ -16,3 +16,15 @@ Replacement of nutritional indicative values by values according to McDonald's o
 
 ## 🌈 | Visualization
 - [Interactive Dashboard in Tableau](https://public.tableau.com/app/profile/sicilia.giacomazza/viz/Livro11_16612210682460/Painel1?publish=yes)
+<div align="center">
+<a href="https://github.com/Sissaz" > <img width="90%"  src="https://cdn.discordapp.com/attachments/589442956021465142/1011475914070183947/dashboard.png" /></a>
+</div>
+
+## 🍔 | 1 Hour After Eating a Big Mac
+<div align="center">
+<a href="https://github.com/Sissaz" > <img width="70%"  src="http://luciliadiniz.com/wp-content/uploads/2015/09/info-fast-food.jpg" /></a>
+</div>
+
+<div align="center">
+<a href="https://github.com/Sissaz" > <img width="25%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971192953840222258/Sissasz.png" /></a>
+</div>
