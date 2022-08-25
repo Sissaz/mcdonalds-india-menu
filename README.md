@@ -28,3 +28,4 @@ Replacement of nutritional indicative values by values according to McDonald's o
 <div align="center">
 <a href="https://github.com/Sissaz" > <img width="25%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971192953840222258/Sissasz.png" /></a>
 </div>
+ 
