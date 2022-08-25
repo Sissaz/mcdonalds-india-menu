@@ -17,7 +17,7 @@ Replacement of nutritional indicative values by values according to McDonald's o
 ## 🌈 | Visualization
 - [Interactive Dashboard in Tableau](https://public.tableau.com/app/profile/sicilia.giacomazza/viz/DadosdeNutriodoMenudoMcDonaldsIndia/Painel1?publish=yes)
 <div align="center">
-<a href="https://github.com/Sissaz" > <img width="90%"  src="https://cdn.discordapp.com/attachments/589442956021465142/1011475914070183947/dashboard.png" /></a>
+<a href="https://github.com/Sissaz" > <img width="90%"  src="https://cdn.discordapp.com/attachments/589442956021465142/1012220271639416903/dashboard.png" /></a>
 </div>
 
 ## 🍔 | 1 Hour After Eating a Big Mac
