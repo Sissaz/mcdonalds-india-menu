@@ -7,6 +7,7 @@ McDonald’s in India was started in 1996 in Bandra, Mumbai with one single rest
 - Some of the menu items exceed the indicated amount per day of sodium, cholesterol and energy. This could lead to serious consequences such as hypertension, heart disease and obesity.
 - Items from the Burger Menu have the most cholesterol amount, and the Beverages Menu items have the least. However, when it comes to Total Sugar, the Beverages Menu Items take the lead.
 - The Recommended Dietary Allowance for Sodium is about 2000 g, but some Items from Vegetarian Menu come very close to that. So, dont mistake the name "Vegetarian" with "Healthy".
+- Chicken Cheese Lava Burger have 42% of the Recommended Dietary Allowance for Calories that is 2000 kCal. All that in just 307 g Per Serve Size.
 
 # 📊 | Data Cleaning and Preparation
 
