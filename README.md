@@ -20,10 +20,6 @@ Replacement of nutritional indicative values by values according to McDonald's o
 <a href="https://github.com/Sissaz" > <img width="90%"  src="https://cdn.discordapp.com/attachments/589442956021465142/1013207233384947772/dashboard.png" /></a>
 </div>
 
-<div align="center">
-<a href="https://github.com/Sissaz" > <img width="90%"  src="https://cdn.discordapp.com/attachments/589442956021465142/1012220628620820591/dashboard2.png" /></a>
-</div>
-
 ## 🍔 | 1 Hour After Eating a Big Mac
 <div align="center">
 <a href="https://github.com/Sissaz" > <img width="70%"  src="http://luciliadiniz.com/wp-content/uploads/2015/09/info-fast-food.jpg" /></a>
