@@ -5,6 +5,8 @@ McDonald’s in India was started in 1996 in Bandra, Mumbai with one single rest
 # ✨| Insight
 - Fast food are foods rich in simple carbohydrates, salt, fat and artificial preservatives.
 - Some of the menu items exceed the indicated amount per day of sodium, cholesterol and energy. This could lead to serious consequences such as hypertension, heart disease and obesity.
+- Items from the Burger Menu have the most cholesterol amount, and the Beverages Menu items have the least. However, when it comes to Total Sugar, the Beverages Menu Items take the lead.
+- The Recommended Dietary Allowance for Sodium is about 2000 g, but some Items from Vegetarian Menu come very close to that. So, dont mistake the name "Vegetarian" with "Healthy".
 
 # 📊 | Data Cleaning and Preparation
 
