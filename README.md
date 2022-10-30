@@ -20,7 +20,7 @@ Replacement of nutritional indicative values by values according to McDonald's o
 ## 🌈 | Visualization
 - [Interactive Dashboard in Tableau](https://public.tableau.com/app/profile/sicilia.giacomazza/viz/DadosdeNutriodoMenudoMcDonaldsIndia/Painel)
 <div align="center">
-<a href="https://github.com/Sissaz" > <img width="95%"  src="https://cdn.discordapp.com/attachments/589442956021465142/1013224316399267930/dashboard.png" /></a>
+<a href="https://github.com/Sissaz" > <img width="95%"  src="https://cdn.discordapp.com/attachments/589442956021465142/1036165782851301458/Screenshot_2.png" /></a>
 </div>
 
 
